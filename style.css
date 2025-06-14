@@ -36,6 +36,11 @@ nav div{
     align-items: center;
 
 }
+.gun a{
+
+    color: white;
+    text-decoration: none;
+}
 nav img{
 
     width: 100px;
