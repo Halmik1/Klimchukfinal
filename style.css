@@ -24,6 +24,11 @@ nav{
     justify-content: space-evenly;
     
 }
+nav a{
+
+    color: white;
+    text-decoration: none;
+}
 nav div{
 
     display: flex;
